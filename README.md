@@ -68,3 +68,18 @@ We need visionaries to build solutions in the following areas:
 * **Philosophers & Data Scientists:** Structuring the Democratic Aristocracy model and Agora's ethical voting/weighting algorithms.
 
 > *"You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete."* > **Welcome to Spadyum.**
+---
+## 6. Join the Build: Calling the Architects of Tomorrow
+
+Spadyum is not a finished product; it is a **supranational engineering challenge**. We are actively seeking individuals who understand the severity of the "Great Filter" and possess the skills to help build the contingency.
+
+**We need your expertise if you are:**
+* **Engineers & Architects:** To develop off-grid systems (solar, thorium, PDE) and design the physical infrastructure of TERRA and POSEIDON.
+* **Developers & Cryptographers:** To audit and secure the AUM tokenomics and build the decentralized voting mechanisms for the Democratic Aristocracy.
+* **Strategists & Survivalists:** To map out supply chains, agricultural sustainability, and communication protocols (like GMDSS networks).
+* **Visionaries:** To tear this Litepaper apart, find its flaws, and make it bulletproof.
+
+If you are ready to shift from individual prepping to backing up human civilization, your skills belong here.
+
+🌐🌐 **Official Portal:** [www.spadyum.com](https://spadyum.com) 
+✉️ **Join the Contingency:** Send your credentials and areas of expertise to **citizenship@spadyum.com** to become an active node in our architecture.
