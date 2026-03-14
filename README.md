@@ -8,7 +8,36 @@
 
 ## 1. The Vision: Why Are We Here?
 The capitalist system's sole focus on profitable ventures and the political polarization fueling investments in weapons of mass destruction have trapped our planet in a fragile state. Spadyum is not a dormant bunker or a doomsday project waiting for a catastrophe. On the contrary, it is an active "Movement for Good" that works for the entire world in times of peace, funding scientific research and safeguarding human heritage (DNA, seed banks, digital libraries) by encrypting it across decentralized nodes.
+```mermaid
+graph TD
+    %% Ana Tehdit ve Çözüm
+    A[The Great Filter <br/> Existential Threats] -->|Requires Contingency| B(SPADYUM PROTOCOL)
+    
+    %% Çekirdek Sistem
+    B --> C{Decentralized <br/> Governance}
+    
+    %% Yönetim ve Ekonomi Katmanları
+    C -->|Economic Layer| D[AUM Token <br/> Physical Gold Pegged <br/> Polygon Network]
+    C -->|System Logic| E[Democratic Aristocracy <br/> Merit-Based Voting]
+    
+    %% Ana Düğümler (Modüller)
+    E --> F[Survival Modules <br/> Active Nodes]
+    
+    %% Modüllerin Detayları
+    F --> G[TERRA <br/> Autonomous Off-Grid Land Habitats]
+    F --> H[POSEIDON <br/> Mobile Maritime Survival Networks]
+    F --> I[ASTRAEUS <br/> Orbital Mechanics & PDE Research]
 
+    %% Görsel Şekillendirme (Stil)
+    classDef core fill:#2C3E50,stroke:#F39C12,stroke-width:2px,color:#fff;
+    classDef threat fill:#C0392B,stroke:#fff,stroke-width:2px,color:#fff;
+    classDef eco fill:#27AE60,stroke:#fff,stroke-width:2px,color:#fff;
+    classDef node fill:#2980B9,stroke:#fff,stroke-width:2px,color:#fff;
+
+    class A threat;
+    class B,C core;
+    class D,E eco;
+    class G,H,I node;
 ## 2. System Architecture: A Three-Pillar Civilization
 Spadyum is not merely a digital network; it is a modular engineering marvel taking root in the physical world and reaching into space.
 
