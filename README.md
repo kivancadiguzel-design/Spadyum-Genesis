@@ -67,7 +67,7 @@ We need visionaries to build solutions in the following areas:
 * **Mechanical & Aerospace Engineers:** PDE optimization for Project Astraeus and autonomous system designs for Project Poseidon.
 * **Philosophers & Data Scientists:** Structuring the Democratic Aristocracy model and Agora's ethical voting/weighting algorithms.
   
-> "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete."*  **Welcome to Spadyum.**
+> "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete."  **Welcome to Spadyum.**
 ---
 ## 6. Join the Build: Calling the Architects of Tomorrow
 
