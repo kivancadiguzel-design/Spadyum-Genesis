@@ -38,6 +38,7 @@ graph TD
     class B,C core;
     class D,E eco;
     class G,H,I node;
+```
 ## 2. System Architecture: A Three-Pillar Civilization
 Spadyum is not merely a digital network; it is a modular engineering marvel taking root in the physical world and reaching into space.
 
